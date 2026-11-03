@@ -11,7 +11,7 @@
 let names = [
   // Example:
   "Rafael Ortiz",
-  // "Student 2",
+  "Bryan Chang",
   // "Student 3",
   //
 ];
